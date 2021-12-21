@@ -1,4 +1,4 @@
-### Fala bro, aqui e nordeste! 🌴
+### Fala bro, aqui é nordeste! 🌴
 
 
 <div style="display: inline_block">
