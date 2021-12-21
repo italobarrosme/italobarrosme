@@ -1,4 +1,4 @@
-### Fala bro 👋
+### Fala bro, aqui e nordeste! 🌴
 
 
 <div style="display: inline_block">
@@ -10,7 +10,7 @@
   <img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<div><a href="https://codepen.io/italobarrosmepen" target="_blank">My codePen</div><br>
+<div><a href="https://codepen.io/italobarrosmepen" target="_blank">Look at my codepen every day I update</div><br>
 
 
  <div>
