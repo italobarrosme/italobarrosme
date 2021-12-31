@@ -10,7 +10,9 @@
   <img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<div><a href="https://codepen.io/italobarrosmepen" target="_blank">Look at my codepen every day I update</div><br>
+<div> <span><img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"></span><a href="https://codepen.io/italobarrosmepen" target="_blank"> Look at my codepen every day I update</div><br>
+
+
 
 
  <div>
