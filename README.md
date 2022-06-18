@@ -1,4 +1,4 @@
-### Fala bro, aqui é nordeste! 🌴
+### Podem ti tirar muita coisa mas o conhecimento niguem tira! 🌴
 
 
 <div style="display: inline_block">
