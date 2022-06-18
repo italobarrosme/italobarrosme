@@ -1,4 +1,4 @@
-### Podem ti tirar muita coisa mas o conhecimento niguem tira! 🌴
+### Podem te tirar muita coisa mas o conhecimento ninguem tira! 🌴
 
 
 <div style="display: inline_block">
