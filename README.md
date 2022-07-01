@@ -1,4 +1,4 @@
-### Podem te tirar muita coisa mas o conhecimento ninguem tira! 🌴
+### 1% de update por dia 🌴
 
 
 <div style="display: inline_block">
