@@ -8,6 +8,7 @@
   <img align="center" alt="italobarrosme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="italobarrosme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="italobarrosme-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nexjs-original.svg">
 </div><br>
 
 <div> <span><img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"></span><a href="https://codepen.io/italobarrosmepen" target="_blank"> Look at my codepen every day I update</div><br>
