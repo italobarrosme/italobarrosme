@@ -1,4 +1,4 @@
-### 1% de update por dia 🌴
+### no mínimo 1% de update por dia 🌴
 
 
 <div style="display: inline_block">
