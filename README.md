@@ -1,7 +1,7 @@
-### no mínimo 1% de update por dia 🌴
+<div style="padding: 16px;">
 
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row;">
   <img align="center" alt="italobarrosme-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="italobarrosme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="italobarrosme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,6 +20,10 @@
  <div>
   <a href="https://github.com/italobarrosme">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italobarrosme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobarrosme&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobarrosme&layout=compact&langs_count=5&theme=jolly"/>
 </div>
+</div>
+  
+  
+### at least 1% update per day 🌴
 
