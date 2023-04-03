@@ -32,4 +32,4 @@ _at least 1% update per day_
 ## Some Projects Donee 🚧
   | Project | Objective | Repository | Link Site | Type | 
   | ------- | --------- | ---------- | ---- | ---- |
-  | Mikasa | To catalog games that I have zeroed out | [Link](https://github.com/italobarrosme/mikasa) | [vercel deploy](https://mikasa-silk.vercel.app/)  | [Study, Hobby] |
+  | Mikasa | To catalog games that I have finished out | [Link](https://github.com/italobarrosme/mikasa) | [vercel deploy](https://mikasa-silk.vercel.app/)  | [Study, Hobby] |
