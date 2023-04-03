@@ -1,6 +1,7 @@
+### Hello Bro!🌴
+_at least 1% update per day_
+
 <div style="padding: 16px;">
-
-
 <div style="display: flex; flex-direction: row;">
   <img align="center" alt="italobarrosme-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="italobarrosme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -12,7 +13,7 @@
   <img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<div> <span><img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"></span><a href="https://codepen.io/italobarrosmepen" target="_blank"> Look at my codepen every day I update</div><br>
+<div> <span><img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"></span><a href="https://codepen.io/italobarrosmepen" target="_blank"> Look at my CODEPEN every day I update</div><br>
 
 
 
@@ -24,12 +25,11 @@
 </div>
 </div>
   
+  __________________________________________________________________________________________________________________________________________________
   
-### at least 1% update per day 🌴
 
-# Project List
-## Mikasa
- - Type: [Study, Hobby]
- - Objective: To catalog games that I have zeroed out
- - Stack: NextJS, TypeScript, Vercel for deploy, GraphQl, GraphCMS for data request, Tailwind, Zustend.
- - Link: [Repository](https://github.com/italobarrosme/mikasa)
+  
+## Project List 🚧
+  | Project | Objective | Repository | Type |
+  | ------- | --------- | ---------- | ---- |
+  | Mikasa | To catalog games that I have zeroed out | [Link](https://github.com/italobarrosme/mikasa) | [Study, Hobby] |
