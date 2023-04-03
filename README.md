@@ -27,3 +27,9 @@
   
 ### at least 1% update per day 🌴
 
+# Project List
+## Mikasa
+ - Type: [Study, Hobby]
+ - Objective: To catalog games that I have zeroed out
+ - Stack: NextJS, TypeScript, Vercel for deploy, GraphQl, GraphCMS for data request, Tailwind, Zustend.
+ - Link: [Repository](https://github.com/italobarrosme/mikasa)
