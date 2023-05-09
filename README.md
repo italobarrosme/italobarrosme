@@ -13,7 +13,7 @@ _at least 1% update per day_
   <img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<div> <span><img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"></span><a href="https://codepen.io/italobarrosmepen" target="_blank"> Look at my CODEPEN every day I update</div><br>
+<div> <span><img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg"></span><a href="https://codepen.io/italobarrosmepen" target="_blank"> Look at my CODEPEN</div><br>
 
 
 
