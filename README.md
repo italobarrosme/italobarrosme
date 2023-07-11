@@ -30,8 +30,9 @@ _at least 1% update per day_
 
   
 ## Some Projects 🚧
-  | Project | Objective | Repository | Link Site | Type | 
+  | Project | Resume | Repository | Link Site | Type | 
   | ------- | --------- | ---------- | ---- | ---- |
   | Mikasa | To catalog games that I have finished out | [Link](https://github.com/italobarrosme/mikasa) | [vercel deploy](https://mikasa-silk.vercel.app/)  | [Study, Hobby] |
-  | kira | Daily code training | [Link](https://github.com/italobarrosme/kira) | [vercel deploy](https://kira-pi.vercel.app/) | [Study, Hobby] |
+  | kira | Daily code training using monorepo NX | [Link](https://github.com/italobarrosme/kira) | [vercel deploy](https://kira-pi.vercel.app/) | [Study, Hobby, Code improvement] |
+  | killua | Web system for a travel booking website using Next.js with App Router and Prisma. | [Link](https://github.com/italobarrosme/killua) | [vercel deploy](https://killua-beta.vercel.app/) | [Study, Hobby, Code improvement] |
   | zenitsu | Short study of zod library usage | [Link](https://github.com/italobarrosme/zenitsu) | - | [Study] |
