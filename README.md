@@ -1,4 +1,7 @@
-### 🌴 [coqueirodigital.com](https://www.coqueirodigital.com/)
+
+<pre>✍️ Each day, strive to be 1% better than yesterday. 
+Small daily improvements lead to significant transformations over time.
+</pre>
 
 ### 🚀 Favorite Tech Stacks
 
@@ -19,4 +22,5 @@
   <a href="https://codepen.io/italobarrosmepen" target="_blank">Explore my Codepen for code samples and training exercises</a>
 </p>
 
-_Updating at least 1% every day!_
+### 🌴 Would you like to create a system with me?
+[Request a quotation!](https://www.coqueirodigital.com/)
