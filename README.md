@@ -22,5 +22,5 @@ Small daily improvements lead to significant transformations over time.
   <a href="https://codepen.io/italobarrosmepen" target="_blank">Explore my Codepen for code samples and training exercises</a>
 </p>
 
-### 🌴 Would you like to create a system with me?
-[Request a quotation!](https://www.coqueirodigital.com/)
+### ☁️ Would you like to create a system with me?
+[Request a quotation!](https://www.skyi.com.br/)
