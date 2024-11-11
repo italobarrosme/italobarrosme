@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=italobarrosme&color=006bed)
 
 <pre>✍️ Each day, strive to be 1% better than yesterday. 
 Small daily improvements lead to significant transformations over time.
